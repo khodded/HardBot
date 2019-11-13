@@ -3,7 +3,7 @@
 require_once 'functions.php';
 
 # passwoard per settare la webhook
-$passwoard = $config['passwoard'];
+$passwoardwb = $config['passwoard'];
 
 # start
 if (stripos($cmd, 'start') === 0 or stripos($cmd, 'help') === 0) {
