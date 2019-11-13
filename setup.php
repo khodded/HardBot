@@ -11,7 +11,6 @@ $api = "123456789:ABcdEfgHILmNopqRStUvZ"; // cambialo con il token del tuo bot
 
 $config = [
 'userbot' => "@Hard_Robot", // metti l'username del tuo bot
- 'passwoard' => 'hardbot', // cambia la passwoard per settare la webhook
 'operatori_comandi' => ['/', '!', '.', '>', '?', '$'], // scegli gli alias che vuoi utilizzare (per utilizzarli usare $cmd invece di $text)
 'parse_mode' => "HTML", // Scegli HTML o Markdown
 'admins' => [911833337, 924430415], // ID degli Amministratori del Bot
