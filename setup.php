@@ -2,10 +2,9 @@
 
 # setta la webhook
 
-// per settare la webhook bisogna andare sul sito qui sotto
+// per settare la webhook bisogna recarsi nel bot @Hard_Robot
 /*
-compilatelo con i vostri dati ed eliminate le parentesi
-https://api.telegram.org/bot{TOKEN DEL BOT}/setWebHook?url={VOSTRO DOMINIO}/{CARTELLA DEL BOT}/{FILE .PHP}
+dare al bot /start e seguire la procedura.
 */
 
 $api = "123456789:ABcdEfgHILmNopqRStUvZ"; // cambialo con il token del tuo bot
