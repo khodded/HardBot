@@ -7,7 +7,7 @@
 dare al bot /start e seguire la procedura.
 */
 
-$api = "123456789:ABcdEfgHILmNopqRStUvZ"; // cambialo con il token del tuo bot
+$api = $_GET['api'];
 
 $config = [
 'userbot' => "@Hard_Robot", // metti l'username del tuo bot
