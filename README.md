@@ -2,4 +2,4 @@
 |-----------|:-------------:|-------:|
 | ban       |     unban     |   kick |
 | benvenuto |    settings   | regole |
-| col 3 is  | right-aligned |     $1 |
+| anti repeat  | antispam |     antiflood |
